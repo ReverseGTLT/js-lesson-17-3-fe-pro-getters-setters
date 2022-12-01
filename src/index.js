@@ -48,6 +48,4 @@ export const school = {
 };
 
 
-//us.grades > 90 ? aGradeStudents : us.grades > 80 ? bGradeStudents : us.grades > 70 ? cGradeStudents : dGradeStudents
-
 
